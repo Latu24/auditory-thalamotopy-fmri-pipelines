@@ -1,0 +1,14 @@
+# Core numerical / scientific stack
+numpy
+scipy
+pandas
+
+# Plotting (QC overlays)
+matplotlib
+
+# Neuroimaging
+nilearn
+nibabel
+
+# BrainVoyager file I/O (VTC, PRT, SDM, VMP, GLM)
+bvbabel

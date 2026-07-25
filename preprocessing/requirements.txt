@@ -1,0 +1,14 @@
+# Python dependencies for the preprocessing pipeline (functional/, anatomical/, registration/).
+#
+# Non-Python dependencies required alongside these packages (not installable via pip):
+#   - FSL (topup, applytopup, mcflirt, fslmerge, fslroi, fslhd) - https://fsl.fmrib.ox.ac.uk/
+#   - dcm2niix, for the raw DICOM -> NIfTI conversion step upstream of this pipeline
+
+numpy
+scipy
+nibabel
+pydicom
+antspyx
+bvbabel
+matplotlib
+scikit-learn

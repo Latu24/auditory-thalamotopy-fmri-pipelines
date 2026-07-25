@@ -1,0 +1,33 @@
+# Data (never intended to be committed here)
+derivatives/
+raw/
+*.nii
+*.nii.gz
+*.dcm
+*.fmr
+*.vmr
+*.v16
+*.vtc
+*.vmp
+*.glm
+*.prt
+*.sdm
+*.ctr
+*.stc
+*.trf
+*.usdz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store

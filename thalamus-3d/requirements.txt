@@ -1,0 +1,11 @@
+numpy
+scipy
+nibabel
+matplotlib
+scikit-image
+statsmodels
+antspyx
+bvbabel
+plotly
+pandas
+usd-core
